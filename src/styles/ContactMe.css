@@ -1,0 +1,14 @@
+  .form input {
+    display: block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    width: 50%;
+  }
+  
+  .form textarea {
+    display: block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    width: 50%;
+  }
+  

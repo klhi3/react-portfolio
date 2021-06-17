@@ -38,7 +38,7 @@ run ```create-react-app```
 [Portfolio](https://progressive-budget-tracker-v.herokuapp.com/)
 
 * github
-[Portfolio Github](https://progressive-budget-tracker-v.herokuapp.com/)
+[Portfolio Github](hhttps://github.com/klhi3/react-portfolio)
 
 
 ## Links

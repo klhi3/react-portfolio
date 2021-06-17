@@ -1,0 +1,18 @@
+nav {
+    color: white;
+    background-image: 
+    linear-gradient(rgba(0, 0, 255, 0.5), rgba(48, 97, 161, 0.5)), 
+                      url("../images/bg.jpg");
+                      
+  }
+
+li > a {
+    font-size: 1.3rem;
+    color: white;
+    text-shadow: black 0.1em 0.1em 0.2em;
+    text-decoration: none;
+  }
+
+  #navbarText {
+    color: white;
+  }
