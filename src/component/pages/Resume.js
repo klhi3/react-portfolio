@@ -6,7 +6,7 @@ export default function Contact() {
     <div>
       <h2>Resume</h2><br></br>
       {/* <p>Click to download <a href='../../../doc/Lhi, Hekwang_resume.pdf' download> my Resume</a></p> */}
-      <p>Click <a href='../doc/Lhi, Hekwang_resume 2022.pdf' target="_blank"> my Resume 3</a></p>
+      <p>Click <a href='../doc/Lhi_Hekwang_resume.pdf' target="_blank"> my Resume 5</a></p>
       <p>
         
       </p>
