@@ -1,4 +1,16 @@
 * {
     font-family: 'cursive', 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     margin: 0;
+    /* background-color: rgba(22, 119, 179, 0.5); */
+
+    /* box-sizing: border-box;
+    margin: 0;
+    padding: 0; */
+    color: black;
 }
+
+body {
+    background-color:rgba(158, 198, 221, 0.5) ;
+}
+
+

@@ -1,18 +1,23 @@
 nav {
-    color: white;
+    height: 7rem;
     background-image: 
-    linear-gradient(rgba(0, 0, 255, 0.5), rgba(48, 97, 161, 0.5)), 
-                      url("../images/bg.jpg");
+    linear-gradient(rgba(22, 119, 179, 0.5), rgba(158, 198, 221, 0.5)), 
+                      url("../images/bg.jpg");  
                       
+    margin: 0;
   }
+
+div h1 {
+  margin-right: 5rem;
+}
 
 li > a {
     font-size: 1.3rem;
-    color: white;
     text-shadow: black 0.1em 0.1em 0.2em;
     text-decoration: none;
   }
 
-  #navbarText {
+  #navbarText ul li a{
+    text-align: justify;
     color: white;
   }

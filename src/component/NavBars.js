@@ -5,8 +5,8 @@ import '../styles/NavBars.css';
 function NavBars({ currentPage, handlePageChange }) {
   return (
 
-  <nav className="navbar navbar-expand-lg navbar-light bg-light">
-    <div className="container-fluid">
+  <nav className="navbar navbar-expand-lg navbar-light ">
+    <div className="container-fluid ">
 
       {/* React Moving Logo */}
       <div>
@@ -16,9 +16,9 @@ function NavBars({ currentPage, handlePageChange }) {
 
       <div><h1>KLhi</h1></div>
 
-            <div className="collapse navbar-collapse" id="navbarText">
-                    <ul className="navbar-nav me-auto mb-2 mb-lg-0 fw-bol">
-                    <li className="nav-item">
+            <div className="collapse navbar-collapse " id="navbarText">
+                    <ul className="navbar-nav me-auto mb-2 mb-lg-0 fw-bol ">
+                    <li className="nav-item ">
                         <a
                         href="#aboutme"
                         onClick={() => handlePageChange('AboutMe')}
