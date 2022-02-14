@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.b3c28127.chunk.css",
-    "main.js": "/react-portfolio/static/js/main.cfd91c52.chunk.js",
-    "main.js.map": "/react-portfolio/static/js/main.cfd91c52.chunk.js.map",
-    "runtime-main.js": "/react-portfolio/static/js/runtime-main.a95c3e0b.js",
-    "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.a95c3e0b.js.map",
-    "static/css/2.74c02967.chunk.css": "/react-portfolio/static/css/2.74c02967.chunk.css",
-    "static/js/2.e690e120.chunk.js": "/react-portfolio/static/js/2.e690e120.chunk.js",
-    "static/js/2.e690e120.chunk.js.map": "/react-portfolio/static/js/2.e690e120.chunk.js.map",
-    "index.html": "/react-portfolio/index.html",
-    "static/css/2.74c02967.chunk.css.map": "/react-portfolio/static/css/2.74c02967.chunk.css.map",
-    "static/css/main.b3c28127.chunk.css.map": "/react-portfolio/static/css/main.b3c28127.chunk.css.map",
-    "static/js/2.e690e120.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.e690e120.chunk.js.LICENSE.txt",
-    "static/media/NavBars.css": "/react-portfolio/static/media/bg.76f55be0.jpg",
-    "static/media/header.6291a0a2.gif": "/react-portfolio/static/media/header.6291a0a2.gif"
+    "main.css": "/portfolio/static/css/main.dead180b.chunk.css",
+    "main.js": "/portfolio/static/js/main.cfd91c52.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.cfd91c52.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.1e378089.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.1e378089.js.map",
+    "static/css/2.74c02967.chunk.css": "/portfolio/static/css/2.74c02967.chunk.css",
+    "static/js/2.e690e120.chunk.js": "/portfolio/static/js/2.e690e120.chunk.js",
+    "static/js/2.e690e120.chunk.js.map": "/portfolio/static/js/2.e690e120.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "static/css/2.74c02967.chunk.css.map": "/portfolio/static/css/2.74c02967.chunk.css.map",
+    "static/css/main.dead180b.chunk.css.map": "/portfolio/static/css/main.dead180b.chunk.css.map",
+    "static/js/2.e690e120.chunk.js.LICENSE.txt": "/portfolio/static/js/2.e690e120.chunk.js.LICENSE.txt",
+    "static/media/NavBars.css": "/portfolio/static/media/bg.76f55be0.jpg",
+    "static/media/header.6291a0a2.gif": "/portfolio/static/media/header.6291a0a2.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.a95c3e0b.js",
+    "static/js/runtime-main.1e378089.js",
     "static/css/2.74c02967.chunk.css",
     "static/js/2.e690e120.chunk.js",
-    "static/css/main.b3c28127.chunk.css",
+    "static/css/main.dead180b.chunk.css",
     "static/js/main.cfd91c52.chunk.js"
   ]
 }
