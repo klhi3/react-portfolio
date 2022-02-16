@@ -7,7 +7,9 @@ export default function Footer() {
     <div className="container"> 
         <div className="d-flex justify-content-center">
         <p>
-            <button type="button" className="btn"> <AiOutlineGithub /></button> <button type="button" className="btn"> <GrLinkedin /></button><button type="button" className="btn"> <GrTwitter /></button>
+            <button type="button" className="btn" onclick="window.open('https://github.com/klhi3?tab=repositories')"> <AiOutlineGithub /></button> 
+            <button type="button" className="btn"> <GrLinkedin /></button>
+            <button type="button" className="btn"> <GrTwitter /></button>
             
         </p>
         </div>
