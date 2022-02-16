@@ -28,6 +28,15 @@ run ```create-react-app```
 * Project
 * Footer
 
+<!--
+run
+$ npm install --save gh-pages
+$ npm run deploy 
+$ git add -A
+$ git commit -m "github url"
+$ git push -u origin main
+-->
+
 ## Deploy
 
 * presentation
