@@ -11,8 +11,9 @@ export default function Footer() {
     <div className="container"> 
         <div className="d-flex justify-content-center">
         <p>
-            <button type="button" className="btn" onClick={handleClick("https://github.com/klhi3?tab=repositories")}> <AiOutlineGithub /></button> 
-            <button type="button" className="btn" onClick={handleClick("https://www.linkedin.com/in/hekwanglhi/")}> <GrLinkedin /></button>
+            <button type="button" className="btn" whenClicked={handleClick("https://github.com/klhi3?tab=repositories")}> <AiOutlineGithub /></button> 
+            <button type="button" className="btn" whenClicked={handleClick("https://www.linkedin.com/in/hekwanglhi/")}> <GrLinkedin /></button>
+           {/*  <button type="button" className="btn" onClick={handleClick("https://www.linkedin.com/in/hekwanglhi/")}> <GrLinkedin /></button>  */}
            { /* <button type="button" className="btn" onClick={handleClick("https://github.com/klhi3?tab=repositories")}> <GrTwitter /></button> */ }
             
         </p>
