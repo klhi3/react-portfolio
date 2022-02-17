@@ -1,6 +1,7 @@
 import React from 'react';
-import { AiOutlineGithub } from "react-icons/ai";
-import { GrLinkedin, GrTwitter } from "react-icons/gr";
+import { AiOutlineGithub  } from "react-icons/ai";
+import { GrLinkedin  } from "react-icons/gr";
+/* import {  GrTwitter } from "react-icons/gr";   */
 
 export default function Footer() {
   const handleClick = (x) => {
