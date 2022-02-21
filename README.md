@@ -44,10 +44,10 @@ $ git push -u origin main
 <img src="./images/page.gif" width="300" />
 
 * deploy
-[Portfolio](https://progressive-budget-tracker-v.herokuapp.com/)
+[Portfolio](https://klhi3.github.io/react-portfolio)
 
 * github
-[Portfolio Github](hhttps://github.com/klhi3/react-portfolio)
+[Portfolio Github](https://github.com/klhi3/react-portfolio)
 
 
 ## Links
